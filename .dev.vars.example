@@ -4,7 +4,7 @@
 
 # --- 必填 ---
 BETTER_AUTH_SECRET=dlbbbdbbpdblw070330
-BETTER_AUTH_URL=http://localhost:3000
+BETTER_AUTH_URL=http://nan-xi.ccwu.cc
 GITHUB_CLIENT_ID=your-github-client-id
 GITHUB_CLIENT_SECRET=your-github-client-secret
 DOMAIN=nan-xi.ccwu.cc
